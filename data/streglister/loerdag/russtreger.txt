@@ -1,239 +1,239 @@
 [Ali Fahim Yousif]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Andreas Borgstad]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Camilla Olsen]
-øl: 2
+oel: 2
 light: 0
 sodavand: 0
 andet: 6
 
 [Casper Hansen]
-øl: 8
+oel: 8
 light: 0
 sodavand: 0
 andet: 0
 
 [Cecilie Novak]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 3
 
 [Chi Pham]
-øl: 1
+oel: 1
 light: 0
 sodavand: 0
 andet: 2
 
 [Christian Grüner]
-øl: 6
+oel: 6
 light: 0
 sodavand: 0
 andet: 0
 
 [Christian Nielsen]
-øl: 4
+oel: 4
 light: 0
 sodavand: 0
 andet: 0
 
 [Christian E. Delafontaine]
-øl: 6
+oel: 6
 light: 0
 sodavand: 0
 andet: 0
 
 [Christian Grotum Due Oesterbye]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Christian Noerby Friis Soerensen]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Christoffer Roslyng]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Daniel Gavin]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Daniel Pedersen]
-øl: 7
+oel: 7
 light: 0
 sodavand: 0
 andet: 0
 
 [Daniel Schwartz Simmelsgaard]
-øl: 16
+oel: 16
 light: 0
 sodavand: 1
 andet: 0
 
 [Elisabeth Pietras]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Emil Pedersen]
-øl: 8
+oel: 8
 light: 1
 sodavand: 0
 andet: 0
 
 [Emil Lagoni]
-øl: 7
+oel: 7
 light: 0
 sodavand: 0
 andet: 0
 
 [Gustav Jonsson]
-øl: 4
+oel: 4
 light: 0
 sodavand: 0
 andet: 2
 
 [Hamza Imran Parvaiz]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Henrik Urms]
-øl: 13
+oel: 13
 light: 0
 sodavand: 0
 andet: 0
 
 [Hjalte Skjold Joergensen]
-øl: 10
+oel: 10
 light: 0
 sodavand: 0
 andet: 0
 
 [Jacob Moeiniche]
-øl: 2
+oel: 2
 light: 0
 sodavand: 0
 andet: 4
 
 [Jonas Aaslet]
-øl: 3
+oel: 3
 light: 3
 sodavand: 0
 andet: 3
 
 [Kenneth Moerck]
-øl: 11
+oel: 11
 light: 0
 sodavand: 0
 andet: 0
 
 [Lasse Larsen]
-øl: 1
+oel: 1
 light: 0
 sodavand: 1
 andet: 4
 
 [Mads Torhus]
-øl: 7
+oel: 7
 light: 0
 sodavand: 0
 andet: 0
 
 [Magnus Moeller]
-øl: 4
+oel: 4
 light: 0
 sodavand: 0
 andet: 0
 
 [Martin Akrawi]
-øl: 13
+oel: 13
 light: 0
 sodavand: 0
 andet: 0
 
 [Martin Henrik Andersen]
-øl: 10
+oel: 10
 light: 0
 sodavand: 0
 andet: 0
 
 [Mathias Jensen]
-øl: 13
+oel: 13
 light: 0
 sodavand: 0
 andet: 0
 
 [Maya Saietz]
-øl: 4
+oel: 4
 light: 0
 sodavand: 0
 andet: 0
 
 [Niels Holm Pedersen]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [Oliver Winther]
-øl: 3
+oel: 3
 light: 2
 sodavand: 0
 andet: 0
 
 [Paw Saabye Pedersen]
-øl: 10
+oel: 10
 light: 0
 sodavand: 0
 andet: 0
 
 [Peter Spliid]
-øl: 7
+oel: 7
 light: 0
 sodavand: 0
 andet: 0
 
 [Simon Skjerning Linneberg]
-øl: 3
+oel: 3
 light: 0
 sodavand: 0
 andet: 1
 
 [Sine Vestergaard Jensen]
-øl: 1
+oel: 1
 light: 0
 sodavand: 0
 andet: 0
 
 [Sofia Laghouila]
-øl: 0
+oel: 0
 light: 0
 sodavand: 3
 andet: 1
 
 [Yaser Hashimi]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0

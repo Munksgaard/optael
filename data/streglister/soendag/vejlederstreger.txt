@@ -1,65 +1,65 @@
 [Ejnar]
-øl: 0
+oel: 0
 light: 0
 sodavand: 0
 andet: 0
 
 [HK]
-øl: 15
+oel: 15
 light: 0
 sodavand: 3
 andet: 0
 
 [Jones]
-øl: 1
+oel: 1
 light: 0
 sodavand: 7
 andet: 0
 
 [Lund]
-øl: 10
+oel: 10
 light: 0
 sodavand: 5
 andet: 0
 
 [Martin]
-øl: 11
+oel: 11
 light: 0
 sodavand: 3
 andet: 0
 
 [Mycky]
-øl: 7
+oel: 7
 light: 0
 sodavand: 2
 andet: 0
 
 [NB]
-øl: 0
+oel: 0
 light: 4
 sodavand: 1
 andet: 0
 
 [Phil]
-øl: 9
+oel: 9
 light: 0
 sodavand: 0
 andet: 0
 
 [Sarah]
-øl: 6
+oel: 6
 light: 0
 sodavand: 2
 andet: 0
 
 [Simon]
-øl: 8
+oel: 8
 light: 0
 sodavand: 1
 andet: 0
 
 [Steph]
-øl: 8
+oel: 8
 light: 0
 sodavand: 0
 andet: 1
