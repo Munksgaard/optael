@@ -1,0 +1,4 @@
+oel: 9.0
+light: 6.8
+sodavand: 7
+cider: 20
