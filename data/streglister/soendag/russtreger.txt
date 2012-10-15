@@ -199,8 +199,8 @@ andet: 0
 [Oliver Winther]
 oel: 6
 light: 1
-sodavand: 0
-andet: 2
+sodavand: 2
+andet: 0
 
 [Paw Saabye Pedersen]
 oel: 18

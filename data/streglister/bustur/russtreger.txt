@@ -11,13 +11,13 @@ sodavand: 0
 andet: 0
 
 [Camilla Olsen]
-oel: 0
+oel: 1
 light: 0
-sodavand: 3
+sodavand: 0
 andet: 0
 
 [Casper Hansen]
-oel: 0
+oel: 1
 light: 0
 sodavand: 0
 andet: 0
@@ -29,27 +29,27 @@ sodavand: 0
 andet: 0
 
 [Chi Pham]
-oel: 1
+oel: 0
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Christian Grüner]
-oel: 7
+oel: 2
 light: 0
-sodavand: 2
+sodavand: 0
 andet: 0
 
 [Christian Nielsen]
-oel: 8
+oel: 2
 light: 0
-sodavand: 4
+sodavand: 0
 andet: 0
 
 [Christian E. Delafontaine]
-oel: 8
+oel: 3
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Christian Grotum Due Oesterbye]
@@ -77,15 +77,15 @@ sodavand: 0
 andet: 0
 
 [Daniel Pedersen]
-oel: 7
+oel: 1
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Daniel Schwartz Simmelsgaard]
-oel: 14
+oel: 4
 light: 0
-sodavand: 4
+sodavand: 0
 andet: 0
 
 [Elisabeth Pietras]
@@ -95,22 +95,22 @@ sodavand: 0
 andet: 0
 
 [Emil Pedersen]
-oel: 10
+oel: 4
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Emil Lagoni]
 oel: 3
 light: 0
-sodavand: 4
+sodavand: 0
 andet: 0
 
 [Gustav Jonsson]
-oel: 11
+oel: 3
 light: 0
 sodavand: 0
-andet: 2
+andet: 0
 
 [Hamza Imran Parvaiz]
 oel: 0
@@ -119,75 +119,75 @@ sodavand: 0
 andet: 0
 
 [Henrik Urms]
-oel: 12
+oel: 8
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Hjalte Skjold Joergensen]
-oel: 13
-light: 0
-sodavand: 2
-andet: 0
-
-[Jacob Moeiniche]
-oel: 3
-light: 0
-sodavand: 1
-andet: 0
-
-[Jonas Aaslet]
 oel: 2
 light: 0
 sodavand: 0
-andet: 6
+andet: 0
+
+[Jacob Moeiniche]
+oel: 1
+light: 0
+sodavand: 0
+andet: 0
+
+[Jonas Aaslet]
+oel: 1
+light: 0
+sodavand: 0
+andet: 0
 
 [Kenneth Moerck]
-oel: 11
+oel: 3
 light: 0
-sodavand: 1
-andet: 1
+sodavand: 0
+andet: 0
 
 [Lasse Larsen]
-oel: 5
+oel: 1
 light: 0
-sodavand: 4
-andet: 1
+sodavand: 0
+andet: 0
 
 [Mads Torhus]
-oel: 0
+oel: 2
 light: 0
 sodavand: 0
 andet: 0
 
 [Magnus Moeller]
-oel: 4
+oel: 1
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Martin Akrawi]
-oel: 5
+oel: 3
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Martin Henrik Andersen]
-oel: 0
+oel: 4
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Mathias Jensen]
-oel: 7
+oel: 4
 light: 0
-sodavand: 2
+sodavand: 0
 andet: 0
 
 [Maya Saietz]
-oel: 5
+oel: 2
 light: 0
-sodavand: 4
+sodavand: 0
 andet: 0
 
 [Niels Holm Pedersen]
@@ -197,40 +197,40 @@ sodavand: 0
 andet: 0
 
 [Oliver Winther]
-oel: 8
+oel: 2
 light: 0
-sodavand: 4
+sodavand: 0
 andet: 0
 
 [Paw Saabye Pedersen]
-oel: 18
-light: 1
-sodavand: 1
-andet: 1
+oel: 6
+light: 0
+sodavand: 0
+andet: 0
 
 [Peter Spliid]
-oel: 12
+oel: 2
 light: 0
-sodavand: 2
+sodavand: 0
 andet: 0
 
 [Simon Skjerning Linneberg]
-oel: 3
+oel: 1
 light: 0
-sodavand: 2
+sodavand: 0
 andet: 0
 
 [Sine Vestergaard Jensen]
-oel: 4
+oel: 0
 light: 0
-sodavand: 1
+sodavand: 0
 andet: 0
 
 [Sofia Laghouila]
 oel: 0
 light: 0
-sodavand: 2
-andet: 8
+sodavand: 0
+andet: 0
 
 [Yaser Hashimi]
 oel: 0
