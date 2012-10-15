@@ -1,1 +1,8 @@
 levering: 400
+preben: 1248
+fernando: 773
+jaeger: 99
+bailey: 405
+kahlua: 383
+tilbagesalg: 700
+glogg: 138
