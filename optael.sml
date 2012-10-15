@@ -45,7 +45,7 @@ local
 in
     fun hentLinjer fil_ind =
         let val fil_stroem = TextIO.openIn fil_ind
-        in hentLinjer' fil_stroem
+        in hentLinjer' fil_stroem before TextIO.closeIn fil_stroem
         end;
 end;
 
@@ -162,7 +162,7 @@ fun optaelDrikkevarer titel =
         val drikStroem = TextIO.openOut ("data/optaellinger/" ^ titel ^ "/drikkevarer.txt")
     in
         TextIO.output (drikStroem, s);
-        TextIO.flushOut drikStroem;
+        TextIO.closeOut drikStroem;
         drikOpt
     end;
 
@@ -336,5 +336,35 @@ fun rusGaeld titel =
         val rusPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) russtreger
         val vejlPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) vejlstreger
     in
-        (map foldPerson rusPriser, map foldPerson vejlPriser)
+        map foldPerson (vejlPriser @ rusPriser)
 end;
+
+fun skrivBetaling navn beloeb =
+    let val fil = TextIO.openAppend "data/betalinger/betalinger.txt"
+    in TextIO.output (fil, navn ^ ": " ^ (Int.toString beloeb) ^ "\n")
+       before TextIO.closeOut fil
+    end;
+
+fun udskrivPersoner titel list =
+    let val gaeld = rusGaeld titel
+        fun udskrivPersoner' _ [] _ _ = ()
+          | udskrivPersoner' titel (x :: xs) gaeld n =
+            (print (Int.toString n ^ ": " ^ x ^ " (" ^ Int.toString (#2 (valOf (List.find (fn (navn, _) => navn = x) gaeld))) ^ " kr)\n");
+             udskrivPersoner' titel xs gaeld (n+1))
+    in
+        udskrivPersoner' titel list gaeld 0
+    end;
+        
+
+fun betal titel =
+    let 
+        val personer = (hentVejledere () @ hentRusser())
+        val _ = print "Hvem skal betale?\n\n";
+        val _ = udskrivPersoner titel personer;
+        val _ = print "\n\nIndtast indeks: ";
+        val person = valOf (Int.fromString (fjernNyLinje (valOf (TextIO.inputLine TextIO.stdIn))))
+        val _ = print "Indtast indbetaling i hele kroner: "
+        val beloeb = valOf (Int.fromString (fjernNyLinje (valOf (TextIO.inputLine TextIO.stdIn))))
+    in 
+        skrivBetaling (List.nth (personer, person)) beloeb
+    end;
