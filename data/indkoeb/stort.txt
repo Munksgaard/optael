@@ -1,7 +1,0 @@
-oel: 900
-light: 300
-cola: 750
-squash: 150
-sprite: 300
-cocio: 300
-

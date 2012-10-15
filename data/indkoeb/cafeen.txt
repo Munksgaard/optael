@@ -1,3 +1,0 @@
-oel: 150
-sodavand: 90
-
