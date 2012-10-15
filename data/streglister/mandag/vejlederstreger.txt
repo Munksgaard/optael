@@ -1,0 +1,66 @@
+[Ejnar]
+oel: 0
+light: 0
+sodavand: 1
+andet: 0
+
+[HK]
+oel: 18
+light: 0
+sodavand: 6
+andet: 0
+
+[Jones]
+oel: 14
+light: 1
+sodavand: 0
+andet: 2
+
+[Lund]
+oel: 13
+light: 0
+sodavand: 2
+andet: 0
+
+[Martin]
+oel: 18
+light: 0
+sodavand: 2
+andet: 0
+
+[Mycky]
+oel: 11
+light: 0
+sodavand: 4
+andet: 0
+
+[NB]
+oel: 0
+light: 11
+sodavand: 3
+andet: 0
+
+[Phil]
+oel: 13
+light: 0
+sodavand: 0
+andet: 0
+
+[Sarah]
+oel: 11
+light: 0
+sodavand: 2
+andet: 0
+
+[Simon]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Steph]
+oel: 11
+light: 0
+sodavand: 0
+andet: 3
+
