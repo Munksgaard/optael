@@ -332,7 +332,7 @@ fun rusGaeld titel =
         val drikOmk = fletParListe op* priser (realAntal antal_vaek);
         val stkPris = fletParListe op/ drikOmk (realAntal total_druk);
         val ekstraStk = (ekstra / total_streger + 1.0)
-        val endeligStkPris = map (fn (x,y) => (x, y + ekstraStk)) stkPris 
+        val endeligStkPris = map (fn (x,y) => (x, y + ekstraStk)) stkPris
         val rusPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) russtreger
         val vejlPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) vejlstreger
     in
@@ -354,10 +354,10 @@ fun udskrivPersoner titel list =
     in
         udskrivPersoner' titel list gaeld 0
     end;
-        
+
 
 fun betal titel =
-    let 
+    let
         val personer = (hentVejledere () @ hentRusser())
         val _ = print "Hvem skal betale?\n\n";
         val _ = udskrivPersoner titel personer;
@@ -365,6 +365,6 @@ fun betal titel =
         val person = valOf (Int.fromString (fjernNyLinje (valOf (TextIO.inputLine TextIO.stdIn))))
         val _ = print "Indtast indbetaling i hele kroner: "
         val beloeb = valOf (Int.fromString (fjernNyLinje (valOf (TextIO.inputLine TextIO.stdIn))))
-    in 
+    in
         skrivBetaling (List.nth (personer, person)) beloeb
     end;
