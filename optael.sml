@@ -319,8 +319,12 @@ fun sumParListe xs = #2 (hd (fletStreger (map (fn (drik, antal) => ("", antal)) 
 
 fun foldPerson (navn, drikke) = (navn, round (#2 (hd (fletParListe op+ (map (fn (drik, antal : real) => ("", antal)) drikke) []))));
 
+fun hentBetalinger () =
+    fletParListe op+ (map tolkLinjeInt (hentLinjer "data/betalinger/betalinger.txt")) []
+
 fun rusGaeld titel =
-    let val indkoeb = hentAlleIndkoeb ()
+    let
+        val indkoeb = hentAlleIndkoeb ()
         val optaelling = hentOptaelling titel
         val priser = fletParListe op+ (map (fn (drik, antal) => (fraDrikTilKategori drik, antal)) (hentPriser ())) []
         val ekstra = real (sumParListe (hentEkstraomkostninger ()));
@@ -331,13 +335,14 @@ fun rusGaeld titel =
         val total_streger = real (sumParListe total_druk);
         val drikOmk = fletParListe op* priser (realAntal antal_vaek);
         val stkPris = fletParListe op/ drikOmk (realAntal total_druk);
-        val ekstraStk = (ekstra / total_streger + 1.0)
-        val endeligStkPris = map (fn (x,y) => (x, y + ekstraStk)) stkPris
-        val rusPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) russtreger
-        val vejlPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) vejlstreger
+        val ekstraStk = (ekstra / total_streger + 1.0);
+        val endeligStkPris = map (fn (x,y) => (x, y + ekstraStk)) stkPris;
+        val betalinger = hentBetalinger ();
+        val rusPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) russtreger;
+        val vejlPriser = map (fn (navn, x) => (navn, (fletParListe op* endeligStkPris (realAntal x)))) vejlstreger;
     in
-        map foldPerson (vejlPriser @ rusPriser)
-end;
+        fletParListe op- (map foldPerson (vejlPriser @ rusPriser)) betalinger
+    end;
 
 fun skrivBetaling navn beloeb =
     let val fil = TextIO.openAppend "data/betalinger/betalinger.txt"
@@ -354,7 +359,6 @@ fun udskrivPersoner titel list =
     in
         udskrivPersoner' titel list gaeld 0
     end;
-
 
 fun betal titel =
     let
