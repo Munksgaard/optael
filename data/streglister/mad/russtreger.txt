@@ -1,0 +1,280 @@
+[Ali Fahim Yousif]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Andreas Borgstad]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Camilla Olsen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 5
+
+[Casper Hansen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Cecilie Novak]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Chi Pham]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Christian Grüner]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Christian Nielsen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 1
+
+[Christian E. Delafontaine]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 2
+
+[Christian Grotum Due Oesterbye]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Christian Noerby Friis Soerensen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Christoffer Roslyng]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Daniel Gavin]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Daniel Pedersen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 1
+
+[Daniel Schwartz Simmelsgaard]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 4
+
+[Elisabeth Pietras]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Emil Pedersen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Emil Lagoni]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Gustav Jonsson]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Hamza Imran Parvaiz]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Henrik Urms]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 3
+
+[Hjalte Skjold Joergensen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 5
+
+[Jacob Moeiniche]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Jonas Aaslet]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Kenneth Moerck]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 6
+
+[Lasse Larsen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 4
+
+[Mads Torhus]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Magnus Moeller]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 2
+
+[Martin Akrawi]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 6
+
+[Martin Henrik Andersen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Mathias Jensen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Maya Saietz]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 3
+
+[Niels Holm Pedersen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Oliver Winther]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Paw Saabye Pedersen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 5
+
+[Peter Spliid]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Simon Skjerning Linneberg]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 2
+
+[Sine Vestergaard Jensen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+
+[Sofia Laghouila]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 3
+
+[Yaser Hashimi]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+mad: 0
+

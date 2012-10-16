@@ -1,0 +1,240 @@
+[Ali Fahim Yousif]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Andreas Borgstad]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Camilla Olsen]
+oel: 0
+light: 1
+sodavand: 0
+andet: 4
+
+[Casper Hansen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Cecilie Novak]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Chi Pham]
+oel: 2
+light: 0
+sodavand: 2
+andet: 0
+
+[Christian Grüner]
+oel: 0
+light: 0
+sodavand: 3
+andet: 0
+
+[Christian Nielsen]
+oel: 9
+light: 0
+sodavand: 0
+andet: 0
+
+[Christian E. Delafontaine]
+oel: 5
+light: 0
+sodavand: 2
+andet: 0
+
+[Christian Grotum Due Oesterbye]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Christian Noerby Friis Soerensen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Christoffer Roslyng]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Daniel Gavin]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Daniel Pedersen]
+oel: 10
+light: 1
+sodavand: 3
+andet: 0
+
+[Daniel Schwartz Simmelsgaard]
+oel: 12
+light: 1
+sodavand: 1
+andet: 0
+
+[Elisabeth Pietras]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Emil Pedersen]
+oel: 15
+light: 0
+sodavand: 5
+andet: 0
+
+[Emil Lagoni]
+oel: 10
+light: 0
+sodavand: 6
+andet: 0
+
+[Gustav Jonsson]
+oel: 10
+light: 0
+sodavand: 1
+andet: 1
+
+[Hamza Imran Parvaiz]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Henrik Urms]
+oel: 4
+light: 0
+sodavand: 1
+andet: 0
+
+[Hjalte Skjold Joergensen]
+oel: 7
+light: 0
+sodavand: 1
+andet: 0
+
+[Jacob Moeiniche]
+oel: 3
+light: 0
+sodavand: 4
+andet: 0
+
+[Jonas Aaslet]
+oel: 2
+light: 0
+sodavand: 1
+andet: 4
+
+[Kenneth Moerck]
+oel: 2
+light: 0
+sodavand: 1
+andet: 3
+
+[Lasse Larsen]
+oel: 1
+light: 0
+sodavand: 1
+andet: 0
+
+[Mads Torhus]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Magnus Moeller]
+oel: 3
+light: 0
+sodavand: 0
+andet: 0
+
+[Martin Akrawi]
+oel: 2
+light: 0
+sodavand: 0
+andet: 1
+
+[Martin Henrik Andersen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Mathias Jensen]
+oel: 7
+light: 0
+sodavand: 7
+andet: 0
+
+[Maya Saietz]
+oel: 5
+light: 0
+sodavand: 4
+andet: 0
+
+[Niels Holm Pedersen]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+
+[Oliver Winther]
+oel: 10
+light: 0
+sodavand: 1
+andet: 0
+
+[Paw Saabye Pedersen]
+oel: 12
+light: 0
+sodavand: 3
+andet: 0
+
+[Peter Spliid]
+oel: 6
+light: 0
+sodavand: 5
+andet: 0
+
+[Simon Skjerning Linneberg]
+oel: 4
+light: 0
+sodavand: 2
+andet: 0
+
+[Sine Vestergaard Jensen]
+oel: 1
+light: 0
+sodavand: 2
+andet: 0
+
+[Sofia Laghouila]
+oel: 0
+light: 0
+sodavand: 1
+andet: 0
+
+[Yaser Hashimi]
+oel: 0
+light: 0
+sodavand: 0
+andet: 0
+

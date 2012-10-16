@@ -1,0 +1,8 @@
+oel: 1
+light: 256
+cola: 640
+squash: 146
+sprite: 272
+cocio: 187
+cider: 0
+mad: 0
